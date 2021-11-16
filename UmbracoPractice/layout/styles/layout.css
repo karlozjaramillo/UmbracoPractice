@@ -282,7 +282,7 @@ td{border-width:0 1px;}
 .faico li:last-child{margin-right:0;}
 .faico a{display:inline-block; width:36px; height:36px; line-height:36px; font-size:18px; text-align:center;}
 
-.faico a{color:#FFFFFF; background-color:#0E74A5;}
+.faico a{color:#FFFFFF; background-color:#95d600;}
 .faico a:hover{}
 
 .faicon-dribble:hover{background-color:#EA4C89;}
@@ -330,7 +330,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .row5, .row5 a{color:#474747; background-color:#FFFFFF;}
 .row5{border-color:rgba(0,0,0,.1);}
 
-.gradient{color:#FFFFFF; background:linear-gradient(to bottom right, #0E74A5, #4FB5F5);}
+.gradient{color:#FFFFFF; background:linear-gradient(to bottom right, #026937, #95d600);}
 
 
 /* Top Bar */
@@ -369,7 +369,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 /* Click to Action */
 #cta ul li{color:#474747; background-color:#FFFFFF;}
-#cta ul li div i{color:#4FB5F5; border-color:rgba(0,0,0,.1);}
+#cta ul li div i{color:#026937; border-color:rgba(0,0,0,.1);}
 
 
 /* Footer */
@@ -377,9 +377,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 #footer hr, #footer .borderedbox, #footer .linklist li{border-color:rgba(0,0,0,.1);}
 
 #footer input, #footer button{border-color:transparent;}
-#footer input{color:#FFFFFF; background-color:#0E74A5;}
+#footer input{color:#FFFFFF; background-color:#95d6008f;}
 #footer input:focus{border-color:#F7A804;}
-#footer button{color:#FFFFFF; background-color:#F7A804;}
+#footer button{color:#FFFFFF; background-color:#026937;}
 
 
 /* Navigation */

@@ -3,4 +3,8 @@
 @{
     Layout = "Layout.cshtml";
 }
-<h1>Welcome to News</h1>
+
+<section style="margin: 0 100px">
+    <h1>Welcome to News</h1>
+    @Umbraco.RenderMacro("ListNews")
+</section>

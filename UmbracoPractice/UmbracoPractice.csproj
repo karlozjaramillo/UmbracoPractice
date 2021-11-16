@@ -67,12 +67,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\demo\avatar.png" />
+    <Content Include="images\demo\backgrounds\cover_prehome09.jpg" />
+    <Content Include="images\demo\gallery\01.jpg" />
+    <Content Include="images\demo\gallery\02.jpg" />
+    <Content Include="images\demo\gallery\03.jpg" />
+    <Content Include="images\demo\gallery\04.jpg" />
+    <Content Include="images\demo\gallery\05.jpg" />
+    <Content Include="images\demo\gallery\06.jpg" />
+    <Content Include="images\demo\gallery\09.jpg" />
+    <Content Include="images\demo\gallery\10.jpg" />
+    <Content Include="images\demo\gallery\11.jpg" />
+    <Content Include="images\logo_white_122x45.png" />
+    <Content Include="layout\scripts\jquery.backtotop.js" />
+    <Content Include="layout\scripts\jquery.min.js" />
+    <Content Include="layout\scripts\jquery.mobilemenu.js" />
+    <Content Include="layout\styles\fontawesome-free\css\fontawesome-all.min.css" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-brands-400.svg" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-regular-400.svg" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-solid-900.svg" />
+    <Content Include="layout\styles\framework.css" />
+    <Content Include="layout\styles\layout.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-brands-400.eot" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-brands-400.ttf" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-brands-400.woff" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-brands-400.woff2" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-regular-400.eot" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-regular-400.ttf" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-regular-400.woff" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-regular-400.woff2" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-solid-900.eot" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-solid-900.ttf" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-solid-900.woff" />
+    <Content Include="layout\styles\fontawesome-free\webfonts\fa-solid-900.woff2" />
     <None Include="packages.config" />
     <Content Include="Views\Layout.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
